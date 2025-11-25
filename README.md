@@ -1,0 +1,2 @@
+# improving_conversion_rate
+The goal of this challenge is to build a model that predicts conversion rate and, based on the model, come up with ideas to improve revenue.
